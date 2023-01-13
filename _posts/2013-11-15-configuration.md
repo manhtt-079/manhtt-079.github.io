@@ -8,7 +8,7 @@ fullview: true
 
 In your config file change these settings
 
-{% highlight yaml %}
+<!-- {% highlight yaml %}
 title: dbyll
 author:  
   name: yourname  
@@ -20,4 +20,4 @@ author:
   resume: asd123  
   bio: Your stylish,  minimalist theme!  
   email_md5: md5ofemail  
-{% endhighlight %}
+{% endhighlight %} -->
