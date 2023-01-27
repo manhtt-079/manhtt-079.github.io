@@ -31,7 +31,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-
+kramdown:
+  math_engine: mathjax
+  
 description: NLP
 author:
   name: manhtt
